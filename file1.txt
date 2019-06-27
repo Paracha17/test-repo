@@ -19,5 +19,11 @@ git push origin branchname 	// to push commits to server
 
 git diff filename 	// to see changes in a specific file
 
-git checkout -- filename
+git checkout -- filename 	// to change state of file to previous HEAD
+
+git branch branchname		// to create branch
+
+git checkout branchname		// to switch to that branch
+
+
 
