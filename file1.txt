@@ -1,0 +1,11 @@
+git init // to initiakized a git repository
+
+git add filename / . / -A 	// To add file in git control
+
+git status 	// display your reppo status
+
+git commit -m "message" 	// create commit wihich you can later push to server
+
+git push origin branchname 	// to push commits to server
+
+
