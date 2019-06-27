@@ -6,6 +6,8 @@ git status 	// display your reppo status
 
 git commit -m "message" 	// create commit wihich you can later push to server
 
+
 git push origin branchname 	// to push commits to server
 
+git diff filename 	// to see changes in a specific file
 
