@@ -6,8 +6,18 @@ git status 	// display your reppo status
 
 git commit -m "message" 	// create commit wihich you can later push to server
 
+git log		// to see previous commits
+
+git remote add origin "LINK TO SERVER REPO" 	// to connect local repo to server repo
+
+git remote -v  // to check remote url
+
+
+
 
 git push origin branchname 	// to push commits to server
 
 git diff filename 	// to see changes in a specific file
+
+git checkout -- filename
 
